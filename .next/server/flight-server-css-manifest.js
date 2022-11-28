@@ -1,1 +1,1 @@
-self.__RSC_CSS_MANIFEST={}
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"/Users/jornlarsen/Desktop/Metverseclone/app/page":["/Users/jornlarsen/Desktop/Metverseclone/styles/globals.css"]},"/Users/jornlarsen/Desktop/Metverseclone/app/layout.js":["/Users/jornlarsen/Desktop/Metverseclone/styles/globals.css"]}
